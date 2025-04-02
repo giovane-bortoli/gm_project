@@ -5,6 +5,8 @@ class MyHomePage extends StatefulWidget {
 
   final String title;
 
+  final giovane = 'giovane é gay';
+
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
